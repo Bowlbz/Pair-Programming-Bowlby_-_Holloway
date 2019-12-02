@@ -7,6 +7,7 @@
 #include<fstream>
 
 using namespace std;
+/*Using the variable name "ANY_TYPE" reminds user that ANY DATA TYPE can be passed through*/ 
 
 //template Declaration
 template <class ANY_TYPE> // Maximum Class Template
